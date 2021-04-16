@@ -1,0 +1,237 @@
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\bin\Debug\testBD-v.1.exe.config
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\bin\Debug\testBD-v.1.exe
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\bin\Debug\testBD-v.1.pdb
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\bin\Debug\EntityFramework.dll
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\bin\Debug\EntityFramework.xml
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.csprojAssemblyReference.cache
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.Form1.resources
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.Properties.Resources.resources
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.csproj.GenerateResource.cache
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.csproj.CopyComplete
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.exe
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.pdb
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.UserForm.resources
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.AddFormuser.resources
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.KeyForm.resources
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.LocationForm.resources
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.RegionForm.resources
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\bin\Debug\AForge.dll
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\bin\Debug\AForge.Video.dll
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\bin\Debug\zxing.dll
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\bin\Debug\zxing.presentation.dll
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\bin\Debug\AForge.xml
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\bin\Debug\AForge.Video.xml
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\bin\Debug\zxing.pdb
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\bin\Debug\zxing.xml
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\bin\Debug\zxing.presentation.pdb
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\bin\Debug\zxing.presentation.xml
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\rublev\source\repos\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.ScanBar.resources
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.csprojAssemblyReference.cache
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.AddFormuser.resources
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.Form1.resources
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.KeyForm.resources
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.LocationForm.resources
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.Properties.Resources.resources
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.RegionForm.resources
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.ScanBar.resources
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.UserForm.resources
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.csproj.GenerateResource.cache
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.csproj.CoreCompileInputs.cache
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.exe
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.pdb
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\bin\Debug\testBD-v.1.exe.config
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\bin\Debug\testBD-v.1.exe
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\bin\Debug\testBD-v.1.pdb
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\bin\Debug\AForge.dll
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\bin\Debug\AForge.Video.DirectShow.dll
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\bin\Debug\AForge.Video.dll
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\bin\Debug\EntityFramework.dll
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\bin\Debug\EntityFramework.SqlServer.dll
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\bin\Debug\zxing.dll
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\bin\Debug\zxing.presentation.dll
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\bin\Debug\AForge.xml
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\bin\Debug\AForge.Video.xml
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\bin\Debug\AForge.Video.DirectShow.xml
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\bin\Debug\EntityFramework.xml
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\bin\Debug\EntityFramework.SqlServer.xml
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\bin\Debug\zxing.pdb
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\bin\Debug\zxing.xml
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\bin\Debug\zxing.presentation.pdb
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\bin\Debug\zxing.presentation.xml
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\bin\Debug\ru\EntityFramework.resources.dll
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+W:\Заказы\Доработать прогу бд\testBD-v_1_6104616\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.csproj.CopyComplete
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\bin\Debug\testBD-v.1.exe.config
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\bin\Debug\testBD-v.1.exe
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\bin\Debug\testBD-v.1.pdb
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\bin\Debug\AForge.dll
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\bin\Debug\AForge.Video.dll
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\bin\Debug\EntityFramework.dll
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\bin\Debug\zxing.dll
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\bin\Debug\zxing.presentation.dll
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\bin\Debug\AForge.xml
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\bin\Debug\AForge.Video.xml
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\bin\Debug\EntityFramework.xml
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\bin\Debug\zxing.pdb
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\bin\Debug\zxing.xml
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\bin\Debug\zxing.presentation.pdb
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\bin\Debug\zxing.presentation.xml
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.csprojAssemblyReference.cache
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.Form1.resources
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.KeyForm.resources
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.LocationForm.resources
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.Properties.Resources.resources
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.RegionForm.resources
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.ScanBar.resources
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.UserForm.resources
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.csproj.GenerateResource.cache
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.csproj.CopyComplete
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.exe
+C:\Users\rublev\Downloads\testBD-v_1_6130495\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.pdb
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.csprojAssemblyReference.cache
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.Form1.resources
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.KeyForm.resources
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.LocationForm.resources
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.Properties.Resources.resources
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.RegionForm.resources
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.ScanBar.resources
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.UserForm.resources
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.csproj.GenerateResource.cache
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.csproj.CoreCompileInputs.cache
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.exe
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.pdb
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\bin\Debug\testBD-v.1.exe.config
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\bin\Debug\testBD-v.1.exe
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\bin\Debug\testBD-v.1.pdb
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\bin\Debug\AForge.dll
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\bin\Debug\AForge.Video.DirectShow.dll
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\bin\Debug\AForge.Video.dll
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\bin\Debug\EntityFramework.dll
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\bin\Debug\EntityFramework.SqlServer.dll
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\bin\Debug\zxing.dll
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\bin\Debug\zxing.presentation.dll
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\bin\Debug\AForge.xml
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\bin\Debug\AForge.Video.xml
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\bin\Debug\AForge.Video.DirectShow.xml
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\bin\Debug\EntityFramework.xml
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\bin\Debug\EntityFramework.SqlServer.xml
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\bin\Debug\zxing.pdb
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\bin\Debug\zxing.xml
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\bin\Debug\zxing.presentation.pdb
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\bin\Debug\zxing.presentation.xml
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\bin\Debug\ru\EntityFramework.resources.dll
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.csproj.CopyComplete
+W:\Заказы\Доработать прогу бд\Доделанная с пояснениями\testBD-v_1_6133676\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.CreateSomeKeys.resources
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\bin\Debug\testBD-v.1.exe.config
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\bin\Debug\testBD-v.1.exe
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\bin\Debug\testBD-v.1.pdb
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\bin\Debug\AForge.dll
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\bin\Debug\AForge.Video.dll
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\bin\Debug\EntityFramework.dll
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\bin\Debug\zxing.dll
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\bin\Debug\zxing.presentation.dll
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\bin\Debug\AForge.xml
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\bin\Debug\AForge.Video.xml
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\bin\Debug\EntityFramework.xml
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\bin\Debug\zxing.pdb
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\bin\Debug\zxing.xml
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\bin\Debug\zxing.presentation.pdb
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\bin\Debug\zxing.presentation.xml
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.csprojAssemblyReference.cache
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.CreateSomeKeys.resources
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.KeyForm.resources
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.LocationForm.resources
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.Properties.Resources.resources
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.UserForm.resources
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.csproj.GenerateResource.cache
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.csproj.CopyComplete
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.exe
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.pdb
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.RegionForm.resources
+C:\Users\rublev\Downloads\testBD-v_1_6137858\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.JornalForm.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\bin\Debug\testBD-v.1.exe.config
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\bin\Debug\testBD-v.1.exe
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\bin\Debug\testBD-v.1.pdb
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\bin\Debug\AForge.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\bin\Debug\AForge.Video.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\bin\Debug\EntityFramework.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\bin\Debug\zxing.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\bin\Debug\zxing.presentation.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\bin\Debug\AForge.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\bin\Debug\AForge.Video.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\bin\Debug\EntityFramework.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\bin\Debug\zxing.pdb
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\bin\Debug\zxing.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\bin\Debug\zxing.presentation.pdb
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\bin\Debug\zxing.presentation.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.csprojAssemblyReference.cache
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.KeyForm.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.LocationForm.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.Properties.Resources.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.RegionForm.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.UserForm.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.csproj.GenerateResource.cache
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.csproj.CopyComplete
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.exe
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\obj\Debug\testBD-v.1.pdb
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.ManagerKeys.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\testBD-v.1\testBD-v.1\obj\Debug\testBD_v._1.JournalForm.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Debug\Manager Keys.exe.config
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Debug\Manager Keys.exe
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Debug\Manager Keys.pdb
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Debug\AForge.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Debug\AForge.Video.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Debug\EntityFramework.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Debug\zxing.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Debug\zxing.presentation.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Debug\AForge.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Debug\AForge.Video.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Debug\EntityFramework.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Debug\zxing.pdb
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Debug\zxing.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Debug\zxing.presentation.pdb
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Debug\zxing.presentation.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Debug\testBD-v.1.csprojAssemblyReference.cache
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Debug\testBD_v._1.ManagerKeys.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Debug\testBD_v._1.JournalForm.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Debug\testBD_v._1.KeyForm.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Debug\testBD_v._1.LocationForm.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Debug\testBD_v._1.Properties.Resources.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Debug\testBD_v._1.RegionForm.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Debug\testBD_v._1.UserForm.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Debug\testBD-v.1.csproj.GenerateResource.cache
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Debug\testBD-v.1.csproj.CoreCompileInputs.cache
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Debug\testBD-v.1.csproj.CopyComplete
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Debug\Manager Keys.exe
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Debug\Manager Keys.pdb

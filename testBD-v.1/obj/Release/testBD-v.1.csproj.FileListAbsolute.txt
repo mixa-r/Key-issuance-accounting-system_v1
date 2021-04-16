@@ -1,0 +1,67 @@
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\Manager Keys.exe.config
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\Manager Keys.exe
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\Manager Keys.pdb
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\AForge.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\AForge.Video.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\EntityFramework.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\zxing.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\zxing.presentation.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\AForge.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\AForge.Video.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\EntityFramework.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\zxing.pdb
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\zxing.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\zxing.presentation.pdb
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\zxing.presentation.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\ru\EntityFramework.resources.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Release\testBD-v.1.csprojAssemblyReference.cache
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Release\testBD_v._1.ManagerKeys.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Release\testBD_v._1.JournalForm.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Release\testBD_v._1.KeyForm.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Release\testBD_v._1.LocationForm.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Release\testBD_v._1.Properties.Resources.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Release\testBD_v._1.RegionForm.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Release\testBD_v._1.UserForm.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Release\testBD-v.1.csproj.GenerateResource.cache
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Release\testBD-v.1.csproj.CopyComplete
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Release\Manager Keys.exe
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\курсач v3\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Release\Manager Keys.pdb
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\Manager Keys.exe.config
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\Manager Keys.exe
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\Manager Keys.pdb
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\AForge.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\AForge.Video.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\EntityFramework.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\zxing.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\zxing.presentation.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\AForge.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\AForge.Video.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\EntityFramework.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\zxing.pdb
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\zxing.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\zxing.presentation.pdb
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\zxing.presentation.xml
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\ru\EntityFramework.resources.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\bin\Release\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Release\testBD-v.1.csprojAssemblyReference.cache
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Release\testBD_v._1.ManagerKeys.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Release\testBD_v._1.JournalForm.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Release\testBD_v._1.KeyForm.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Release\testBD_v._1.LocationForm.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Release\testBD_v._1.Properties.Resources.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Release\testBD_v._1.RegionForm.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Release\testBD_v._1.UserForm.resources
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Release\testBD-v.1.csproj.GenerateResource.cache
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Release\testBD-v.1.csproj.CoreCompileInputs.cache
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Release\testBD-v.1.csproj.CopyComplete
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Release\Manager Keys.exe
+C:\Users\rublev\Desktop\Учеба\3 семестр\Курсовой ООП\Курсач финал\Рублев М.С. ИВТ 19-2\testBD-v.1\obj\Release\Manager Keys.pdb

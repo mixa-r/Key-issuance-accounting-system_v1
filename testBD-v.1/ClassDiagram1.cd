@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="testBD_v._1.ModelDB.ModelKeyBTcontext">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAQAAAQCAAABAAAAEA=</HashCode>
+      <FileName>ModelDB\ModelKeyBTcontext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="testBD_v._1.ModelDB.Журнал">
+    <Position X="2.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAgAAAQAAIAAAAAAAAAgBAAABAAAAAAAIFBAAAIkA=</HashCode>
+      <FileName>ModelDB\Журнал.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="testBD_v._1.ModelDB.Справочник_ключи">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABABAAAAQkAIAAAAAAAAAAAEAAAAAAAQCAAAAAAAAAA=</HashCode>
+      <FileName>ModelDB\Справочник_ключи.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="testBD_v._1.ModelDB.Справочник_районы">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ModelDB\Справочник_районы.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Data.Entity.DbContext">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="testBD_v._1.ModelDB.Справочник_сотрдники">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEgAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ModelDB\Справочник_сотрдники.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="testBD_v._1.ModelDB.Справочник_расоложение_АВ">
+    <Position X="2.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ModelDB\Справочник_расоложение_АВ.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="testBD_v._1.JournalForm" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASALAAAJIDA0cRAQACDGDgCCAKh8HKBgEHVEgETCIQA=</HashCode>
+      <FileName>JournalForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="3.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="testBD_v._1.KeyForm" Collapsed="true">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgAAoMBAMCAUABAwAACIAAACAAgQoAAoASABAAJEABI=</HashCode>
+      <FileName>KeyForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="testBD_v._1.LocationForm" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Forms.Form" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.25" Y="6.954" />
+        <Point X="2.875" Y="6.954" />
+        <Point X="2.875" Y="6.562" />
+        <Point X="2" Y="6.562" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>BAAAgIAAICAUIRAQAACAAAACAAgAgAAAAQAAAABGAAY=</HashCode>
+      <FileName>LocationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="testBD_v._1.ManagerKeys" Collapsed="true">
+    <Position X="5.75" Y="6.25" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Forms.Form" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.75" Y="7.096" />
+        <Point X="5.125" Y="7.096" />
+        <Point X="5.125" Y="6.562" />
+        <Point X="5.75" Y="6.562" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAQABAAAACAAgACAAA4BAAAAHAAAAAIBAA=</HashCode>
+      <FileName>ManagerKeys.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="testBD_v._1.RegionForm" Collapsed="true">
+    <Position X="5.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAISAUIBQQAACAgAACAAgAoAAAAAABAEBGAAI=</HashCode>
+      <FileName>RegionForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="testBD_v._1.UserForm" Collapsed="true">
+    <Position X="5.75" Y="7" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAAAAADAICASYBAAAACJIAACAAAAIAAQAAABBABCAAQ=</HashCode>
+      <FileName>UserForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
